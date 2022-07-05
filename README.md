@@ -4,7 +4,7 @@
 
 ## 개요
 
-- TMDB api를 활용한 실시간 영화, TV 관련 정보 검색 웹앱
+- [TMDB](https://www.themoviedb.org/) api를 활용한 실시간 영화, TV 관련 정보 검색 웹앱
   <br>
   <br>
 
