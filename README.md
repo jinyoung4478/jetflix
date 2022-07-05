@@ -1,6 +1,4 @@
 <h1 id="top">JYPTO - Crypto Tracker</h1>
-<br>
-<br>
 
 ## 개요
 
