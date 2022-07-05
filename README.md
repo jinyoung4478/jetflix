@@ -14,12 +14,12 @@
 |<center><img src="https://user-images.githubusercontent.com/102174146/177328446-77063f50-f013-4eaf-9488-8d0b05e4e82d.png"></center>|
   <br>
   <br>
-  
+
 ## 사용기술
 
-- React
-- TypeScript
-- JavaScript
+- react
+- typeScript
+- javaScript
 - react-query
 - styled-components
 - react-beautiful-dnd
