@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./Components/Header";
-import Home from "./Routes/Home";
-import Tv from "./Routes/Tv";
+import Header from "./components/Header";
+import Home from "./routes/Home";
+import Tv from "./routes/Tv";
 import Search from "./Search";
 
 function App() {
