@@ -185,7 +185,6 @@ function Home() {
     };
     const toggleLeaving = () => setLeaving((prev) => !prev);
     const onBoxClicked = (movieId: number) => {
-        console.log(movieId);
         navigate(`/movies/${movieId}`);
     };
     const onOverlayClick = () => navigate("/");
